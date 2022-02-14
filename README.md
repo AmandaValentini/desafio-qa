@@ -5,7 +5,8 @@ Material para execução do teste: http://automationpractice.com/index.php
 
 Neste link está uma loja virtual.
 
-Nesta loja virtual, temos diversos produtos, masculino e feminino.Com alguns cliques e alguns preenchimentos, conseguimos realizar facilmente compras no site.
+Nesta loja virtual, temos diversos produtos, masculino e feminino.
+Com alguns cliques e alguns preenchimentos, conseguimos realizar facilmente compras no site.
 
 ###  Seu desafio deve ter: ###
 1. Será necessário criar um login na plataforma
