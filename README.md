@@ -23,7 +23,10 @@ Com alguns cliques e alguns preenchimentos, conseguimos realizar facilmente comp
 ### ***Avaliação*** ###
 Seu teste será avaliado de acordo com os seguintes critérios:
 1.Seu teste preenche todos os requerimentos do desafio proposto aqui?
+
 2.O projeto está bem documentado?
+
 3. Gerou um relatório com todos os bugs encontrados, de forma detalhada e de fácil entendimento?
+
 **Boa sorte!**
 
