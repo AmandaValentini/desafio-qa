@@ -12,6 +12,7 @@ Com alguns cliques e alguns preenchimentos, conseguimos realizar facilmente comp
 1. Será necessário criar um login na plataforma
 2. Navegar pelo menu, selecionar um produto e realizar uma compra na loja virtual
 3. Verificar se o status da compra está correto no histórico da compra
+
 ***Fique a vontade para criar novos casos de teste se preferir.***
 
 # Ao final o resultado do desafio deve ter:
