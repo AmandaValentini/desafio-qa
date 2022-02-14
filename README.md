@@ -6,7 +6,7 @@ Neste link está uma loja virtual.
 Nesta loja virtual, temos diversos produtos, masculino e feminino.
 Com alguns cliques e alguns preenchimentos, conseguimos realizar facilmente compras no site.
 
-### *** Seu desafio deve ter:*** ###
+###  Seu desafio deve ter: ###
 1. Será necessário criar um login na plataforma
 2. Navegar pelo menu, selecionar um produto e realizar uma compra na loja virtual
 3. Verificar se o status da compra está correto no histórico da compra
