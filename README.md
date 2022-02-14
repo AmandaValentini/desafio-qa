@@ -16,10 +16,15 @@ Com alguns cliques e alguns preenchimentos, conseguimos realizar facilmente comp
 ***Fique a vontade para criar novos casos de teste se preferir.***
 
 # Ao final o resultado do desafio deve ter:
-1.Um relatório com todos os bugs encontrados caso haja bug, seguindo uma metodologia de sua preferência.
-2.A matriz de rastreabilidade de casos de teste
+
+1. Um relatório com todos os bugs encontrados caso haja bug, seguindo uma metodologia de sua preferência.
+
+2. A matriz de rastreabilidade de casos de teste
+
 3. Os cenários de testes na escrita Gherkin
+
 4. Um vídeo da execução do teste
+
 ### ***Avaliação*** ###
 Seu teste será avaliado de acordo com os seguintes critérios:
 
